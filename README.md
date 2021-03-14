@@ -1,0 +1,2 @@
+# OrderbyInjectionDemo
+基于Java SSM框架的Orderby注入简易Demo，支持Get传参和Post传递json数据
